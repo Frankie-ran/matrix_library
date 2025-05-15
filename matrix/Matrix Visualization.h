@@ -1,6 +1,6 @@
 //This file contains function declarations of matrix visualization functions.
-//Please note that there's no visualizeDeterminant() function. 
-//If you need to visualize determinant calculation, call the determinant function with a boolean value true.
+//Please note that there's no visualizeDeterminant() and visualizeInverse() functions. 
+//If you need to visualize them, call the two functions with a boolean value true.
 #pragma once
 #include "matrix.h"
 #include <iostream>
