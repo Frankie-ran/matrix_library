@@ -21,9 +21,6 @@ namespace MatrixViz {
 	//Displays transposition of a matrix step by step
 	void visualizeTranspose(const Matrix& mat, const Matrix& result);
 
-	//Displays inverse calculation of a matrix step by step
-	void visualizeInverse(const Matrix& mat, const Matrix& inverseMat);
-
 	//Displays LU decomposition of a matrix step by step
 	void visualizeLUDecomposition(const Matrix& mat, const Matrix& L, const Matrix& U);
 
